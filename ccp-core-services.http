@@ -1,0 +1,6 @@
+@ccp_core_services_HostAddress = http://localhost:5128
+
+GET {{ccp_core_services_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
